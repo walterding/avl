@@ -1,6 +1,7 @@
 /**
  * Created by hinotohui on 18/5/18.
  */
+package src;
 
 public class AVLTree<V extends Comparable> {
     private AVLNode<V> root;
